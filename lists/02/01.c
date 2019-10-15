@@ -20,7 +20,7 @@ void printMatrix(float matrix[4][3], int length1, int length2)
   for (int i = 0; i < length1; i++)
     for (int j = 0; j < length2; j++)
     {
-      printf("\nValor na matriz na posição[%i][%i]: %f", i, j, matrix[i][j]);
+      printf("\nValor da matriz na posição[%i][%i]: %f", i, j, matrix[i][j]);
     }
 }
 
