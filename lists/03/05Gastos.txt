@@ -1,0 +1,4 @@
+SaoJoaodaBarra 20.00 80.00
+Vitoria 108.50 434.00
+RiodeJaneiro 186.00 744.00
+Guarapari 86.50 346.00
